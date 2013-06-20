@@ -1,0 +1,449 @@
+.sprite {
+	background-image: url('../img/sprite.png');
+	background-repeat: no-repeat;
+}
+
+.sprite.me {
+	width:408px;
+	height:386px;
+	background-position: -2px -2px;
+}
+
+.sprite.cv {
+	background-position: -412px -266px;
+	width:64px;
+	height:64px;
+}
+
+.sprite.network {
+	background-position: -412px -200px;
+	width:64px;
+	height:64px;
+}
+
+.sprite.picture {
+	background-position: -412px -134px;
+	width:64px;
+	height:64px;
+}
+
+.sprite.work {
+	background-position: -412px -2px;
+	width:64px;
+	height:64px;
+}
+
+.sprite.profile {
+	background-position: -412px -68px;
+	width:64px;
+	height:64px;
+}
+
+.icon {
+	background-image: url('../img/sprite.png');
+	background-repeat: no-repeat;
+}
+
+.icon.amazon {
+	width: 48px;
+	height: 48px;
+	background-position: -5px -5px;
+}
+
+.icon.android {
+	width: 48px;
+	height: 48px;
+	background-position: -63px -5px;
+}
+
+.icon.angularjs {
+	width: 45px;
+	height: 48px;
+	background-position: -121px -5px;
+}
+
+.icon.bachelor {
+	width: 48px;
+	height: 48px;
+	background-position: -176px -5px;
+}
+
+.icon.backbone {
+	width: 39px;
+	height: 48px;
+	background-position: -234px -5px;
+}
+
+.icon.biking {
+	width: 48px;
+	height: 48px;
+	background-position: -283px -5px;
+}
+
+.icon.blackberry {
+	width: 48px;
+	height: 48px;
+	background-position: -341px -5px;
+}
+
+.icon.chrome {
+	width: 48px;
+	height: 48px;
+	background-position: -399px -5px;
+}
+
+.icon.codeigniter {
+	width: 40px;
+	height: 48px;
+	background-position: -457px -5px;
+}
+
+.icon.cordova {
+	width: 48px;
+	height: 48px;
+	background-position: -507px -5px;
+}
+
+.icon.css3 {
+	width: 36px;
+	height: 48px;
+	background-position: -565px -5px;
+}
+
+.icon.dribbble-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -5px -63px;
+}
+
+.icon.facebook {
+	width: 48px;
+	height: 48px;
+	background-position: -611px -5px;
+}
+
+.icon.facebook-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -207px -63px;
+}
+
+.icon.firefox {
+	width: 48px;
+	height: 48px;
+	background-position: -669px -5px;
+}
+
+.icon.flickr-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -409px -63px;
+}
+
+.icon.france {
+	width: 48px;
+	height: 48px;
+	background-position: -727px -5px;
+}
+
+.icon.german {
+	width: 48px;
+	height: 48px;
+	background-position: -611px -63px;
+}
+
+.icon.git {
+	width: 48px;
+	height: 48px;
+	background-position: -669px -63px;
+}
+
+.icon.github-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -5px -265px;
+}
+
+.icon.gmail-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -207px -265px;
+}
+
+.icon.google {
+	width: 48px;
+	height: 48px;
+	background-position: -727px -63px;
+}
+
+.icon.google-plus-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -409px -265px;
+}
+
+.icon.html {
+	width: 48px;
+	height: 48px;
+	background-position: -611px -121px;
+}
+
+.icon.html5 {
+	width: 35px;
+	height: 48px;
+	background-position: -669px -121px;
+}
+
+.icon.idea {
+	width: 48px;
+	height: 48px;
+	background-position: -714px -121px;
+}
+
+.icon.india {
+	width: 48px;
+	height: 48px;
+	background-position: -611px -179px;
+}
+
+.icon.iphone {
+	width: 48px;
+	height: 48px;
+	background-position: -669px -179px;
+}
+
+.icon.italy {
+	width: 48px;
+	height: 48px;
+	background-position: -727px -179px;
+}
+
+.icon.japan {
+	width: 48px;
+	height: 48px;
+	background-position: -611px -237px;
+}
+
+.icon.javascript {
+	width: 48px;
+	height: 48px;
+	background-position: -669px -237px;
+}
+
+.icon.jquery {
+	width: 50px;
+	height: 48px;
+	background-position: -727px -237px;
+}
+
+.icon.korea {
+	width: 48px;
+	height: 48px;
+	background-position: -611px -295px;
+}
+
+.icon.linkedin-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -5px -467px;
+}
+
+.icon.mac-os {
+	width: 48px;
+	height: 48px;
+	background-position: -669px -295px;
+}
+
+.icon.money {
+	width: 48px;
+	height: 48px;
+	background-position: -727px -295px;
+}
+
+.icon.mongodb {
+	width: 48px;
+	height: 48px;
+	background-position: -611px -353px;
+}
+
+.icon.morocco {
+	width: 48px;
+	height: 48px;
+	background-position: -669px -353px;
+}
+
+.icon.mysql {
+	width: 93px;
+	height: 48px;
+	background-position: -611px -411px;
+}
+
+.icon.nodejs {
+	width: 179px;
+	height: 48px;
+	background-position: -207px -469px;
+}
+
+.icon.office-place {
+	width: 48px;
+	height: 48px;
+	background-position: -727px -353px;
+}
+
+.icon.old-windows {
+	width: 48px;
+	height: 48px;
+	background-position: -714px -411px;
+}
+
+.icon.pdf {
+	width: 48px;
+	height: 48px;
+	background-position: -396px -469px;
+}
+
+.icon.php {
+	width: 69px;
+	height: 48px;
+	background-position: -454px -469px;
+}
+
+.icon.redis {
+	width: 56px;
+	height: 48px;
+	background-position: -533px -469px;
+}
+
+.icon.saudi-arabia {
+	width: 48px;
+	height: 48px;
+	background-position: -599px -469px;
+}
+
+.icon.skype-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -207px -527px;
+}
+
+.icon.soccer {
+	width: 48px;
+	height: 48px;
+	background-position: -657px -469px;
+}
+
+.icon.sublime-text {
+	width: 48px;
+	height: 48px;
+	background-position: -715px -469px;
+}
+
+.icon.swimming {
+	width: 48px;
+	height: 48px;
+	background-position: -409px -527px;
+}
+
+.icon.swiss {
+	width: 48px;
+	height: 48px;
+	background-position: -467px -527px;
+}
+
+.icon.symfony {
+	width: 49px;
+	height: 48px;
+	background-position: -525px -527px;
+}
+
+.icon.titanium {
+	width: 48px;
+	height: 48px;
+	background-position: -584px -527px;
+}
+
+.icon.tumblr-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -409px -585px;
+}
+
+.icon.tunisia {
+	width: 48px;
+	height: 48px;
+	background-position: -642px -527px;
+}
+
+.icon.twitter {
+	width: 48px;
+	height: 48px;
+	background-position: -700px -527px;
+}
+
+.icon.twitter-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -785px -5px;
+}
+
+.icon.ubuntu {
+	width: 48px;
+	height: 48px;
+	background-position: -787px -207px;
+}
+
+.icon.uk {
+	width: 48px;
+	height: 48px;
+	background-position: -845px -207px;
+}
+
+.icon.usa {
+	width: 48px;
+	height: 48px;
+	background-position: -903px -207px;
+}
+
+.icon.windows-8 {
+	width: 48px;
+	height: 48px;
+	background-position: -787px -265px;
+}
+
+.icon.yeoman {
+	width: 55px;
+	height: 48px;
+	background-position: -845px -265px;
+}
+
+.icon.youtube-ntw {
+	width: 192px;
+	height: 192px;
+	background-position: -785px -323px;
+}
+
+body {
+	background: url('../img/bg.jpg');
+}
+
+body:before {
+	background: url('../img/bg.jpg');
+}
+
+#nav a {
+	background-size: 50px;
+}
+
+#about p img, #about span img {
+	vertical-align: middle;
+}
+
+section.is-gallery div.rows div.quarter {
+	float: left;
+	width: 25%;
+	margin-bottom: 10px;
+}
+
+.cv-link {
+	float: right;
+}
