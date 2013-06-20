@@ -447,3 +447,46 @@ section.is-gallery div.rows div.quarter {
 .cv-link {
 	float: right;
 }
+
+#photos object {
+	width: 100%;
+	height: 500px;
+}
+
+.project {
+	margin-bottom: 30px;
+}
+
+.description {
+	margin-bottom: 50px;
+}
+
+.technologies {
+	float: right;
+	margin-left: 30px;
+	margin-top: -20px;
+}
+
+.technologies .icon {
+	margin-right: 5px;
+}
+
+.tequila-rapido {
+	color: #4D2577;
+}
+
+.estat {
+	color: #0DA9D2;
+}
+
+.iut-nice {
+	color: #C7342A;
+}
+
+.formapro-sup {
+	color: #AEC1D2;
+}
+
+.myself {
+	color: #9bc848;
+}
