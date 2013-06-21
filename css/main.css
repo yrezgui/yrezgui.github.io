@@ -437,6 +437,10 @@ body:before {
 	background: url('../img/bg.jpg');
 }
 
+.hire {
+	color: rgba(61, 154, 232, 0.7);
+}
+
 #nav a {
 	background-size: 50px;
 }
