@@ -44,6 +44,7 @@
 	background-repeat: no-repeat;
 }
 
+
 .icon.amazon {
 	width: 48px;
 	height: 48px;
@@ -116,10 +117,16 @@
 	background-position: -5px -63px;
 }
 
+.icon.elasticsearch {
+	width: 56px;
+	height: 48px;
+	background-position: -611px -5px;
+}
+
 .icon.facebook {
 	width: 48px;
 	height: 48px;
-	background-position: -611px -5px;
+	background-position: -677px -5px;
 }
 
 .icon.facebook-ntw {
@@ -131,7 +138,7 @@
 .icon.firefox {
 	width: 48px;
 	height: 48px;
-	background-position: -669px -5px;
+	background-position: -735px -5px;
 }
 
 .icon.flickr-ntw {
@@ -143,19 +150,19 @@
 .icon.france {
 	width: 48px;
 	height: 48px;
-	background-position: -727px -5px;
+	background-position: -611px -63px;
 }
 
 .icon.german {
 	width: 48px;
 	height: 48px;
-	background-position: -611px -63px;
+	background-position: -669px -63px;
 }
 
 .icon.git {
 	width: 48px;
 	height: 48px;
-	background-position: -669px -63px;
+	background-position: -727px -63px;
 }
 
 .icon.github-ntw {
@@ -173,7 +180,7 @@
 .icon.google {
 	width: 48px;
 	height: 48px;
-	background-position: -727px -63px;
+	background-position: -611px -121px;
 }
 
 .icon.google-plus-ntw {
@@ -185,61 +192,61 @@
 .icon.html {
 	width: 48px;
 	height: 48px;
-	background-position: -611px -121px;
+	background-position: -669px -121px;
 }
 
 .icon.html5 {
 	width: 35px;
 	height: 48px;
-	background-position: -669px -121px;
+	background-position: -727px -121px;
 }
 
 .icon.idea {
 	width: 48px;
 	height: 48px;
-	background-position: -714px -121px;
+	background-position: -611px -179px;
 }
 
 .icon.india {
 	width: 48px;
 	height: 48px;
-	background-position: -611px -179px;
+	background-position: -669px -179px;
 }
 
 .icon.iphone {
 	width: 48px;
 	height: 48px;
-	background-position: -669px -179px;
+	background-position: -727px -179px;
 }
 
 .icon.italy {
 	width: 48px;
 	height: 48px;
-	background-position: -727px -179px;
+	background-position: -611px -237px;
 }
 
 .icon.japan {
 	width: 48px;
 	height: 48px;
-	background-position: -611px -237px;
+	background-position: -669px -237px;
 }
 
 .icon.javascript {
 	width: 48px;
 	height: 48px;
-	background-position: -669px -237px;
+	background-position: -727px -237px;
 }
 
 .icon.jquery {
 	width: 50px;
 	height: 48px;
-	background-position: -727px -237px;
+	background-position: -611px -295px;
 }
 
 .icon.korea {
 	width: 48px;
 	height: 48px;
-	background-position: -611px -295px;
+	background-position: -671px -295px;
 }
 
 .icon.linkedin-ntw {
@@ -251,25 +258,25 @@
 .icon.mac-os {
 	width: 48px;
 	height: 48px;
-	background-position: -669px -295px;
+	background-position: -729px -295px;
 }
 
 .icon.money {
 	width: 48px;
 	height: 48px;
-	background-position: -727px -295px;
+	background-position: -611px -353px;
 }
 
 .icon.mongodb {
 	width: 48px;
 	height: 48px;
-	background-position: -611px -353px;
+	background-position: -669px -353px;
 }
 
 .icon.morocco {
 	width: 48px;
 	height: 48px;
-	background-position: -669px -353px;
+	background-position: -727px -353px;
 }
 
 .icon.mysql {
@@ -287,37 +294,37 @@
 .icon.office-place {
 	width: 48px;
 	height: 48px;
-	background-position: -727px -353px;
+	background-position: -714px -411px;
 }
 
 .icon.old-windows {
 	width: 48px;
 	height: 48px;
-	background-position: -714px -411px;
+	background-position: -396px -469px;
 }
 
 .icon.pdf {
 	width: 48px;
 	height: 48px;
-	background-position: -396px -469px;
+	background-position: -454px -469px;
 }
 
 .icon.php {
 	width: 69px;
 	height: 48px;
-	background-position: -454px -469px;
+	background-position: -512px -469px;
 }
 
 .icon.redis {
 	width: 56px;
 	height: 48px;
-	background-position: -533px -469px;
+	background-position: -591px -469px;
 }
 
 .icon.saudi-arabia {
 	width: 48px;
 	height: 48px;
-	background-position: -599px -469px;
+	background-position: -657px -469px;
 }
 
 .icon.skype-ntw {
@@ -329,37 +336,37 @@
 .icon.soccer {
 	width: 48px;
 	height: 48px;
-	background-position: -657px -469px;
+	background-position: -715px -469px;
 }
 
 .icon.sublime-text {
 	width: 48px;
 	height: 48px;
-	background-position: -715px -469px;
+	background-position: -409px -527px;
 }
 
 .icon.swimming {
 	width: 48px;
 	height: 48px;
-	background-position: -409px -527px;
+	background-position: -467px -527px;
 }
 
 .icon.swiss {
 	width: 48px;
 	height: 48px;
-	background-position: -467px -527px;
+	background-position: -525px -527px;
 }
 
 .icon.symfony {
 	width: 49px;
 	height: 48px;
-	background-position: -525px -527px;
+	background-position: -583px -527px;
 }
 
 .icon.titanium {
 	width: 48px;
 	height: 48px;
-	background-position: -584px -527px;
+	background-position: -642px -527px;
 }
 
 .icon.tumblr-ntw {
@@ -371,37 +378,37 @@
 .icon.tunisia {
 	width: 48px;
 	height: 48px;
-	background-position: -642px -527px;
+	background-position: -700px -527px;
 }
 
 .icon.twitter {
 	width: 48px;
 	height: 48px;
-	background-position: -700px -527px;
+	background-position: -611px -585px;
 }
 
 .icon.twitter-ntw {
 	width: 192px;
 	height: 192px;
-	background-position: -785px -5px;
+	background-position: -793px -5px;
 }
 
 .icon.ubuntu {
 	width: 48px;
 	height: 48px;
-	background-position: -787px -207px;
+	background-position: -785px -207px;
 }
 
 .icon.uk {
 	width: 48px;
 	height: 48px;
-	background-position: -845px -207px;
+	background-position: -843px -207px;
 }
 
 .icon.usa {
 	width: 48px;
 	height: 48px;
-	background-position: -903px -207px;
+	background-position: -901px -207px;
 }
 
 .icon.windows-8 {
@@ -419,7 +426,7 @@
 .icon.youtube-ntw {
 	width: 192px;
 	height: 192px;
-	background-position: -785px -323px;
+	background-position: -787px -323px;
 }
 
 body {
