@@ -437,8 +437,9 @@ body:before {
 	background: url('../img/bg.jpg');
 }
 
-.hire {
-	color: rgba(61, 154, 232, 0.7);
+a.hire {
+	text-decoration: none;
+	color: rgba(61, 154, 232, 1);
 }
 
 #nav a {
