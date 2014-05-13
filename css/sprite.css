@@ -1,0 +1,282 @@
+.icon {
+    background-image: url(../images/iconsheet.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    margin: 0 2px;
+}
+
+.icon-angularjs {
+    width: 45px;
+    height: 48px;
+    background-position: -2px -2px;
+}
+
+.icon-backbone {
+    width: 39px;
+    height: 48px;
+    background-position: -51px -2px;
+}
+
+.icon-belgium {
+    width: 48px;
+    height: 48px;
+    background-position: -94px -2px;
+}
+
+.icon-bower {
+    width: 48px;
+    height: 48px;
+    background-position: -146px -2px;
+}
+
+.icon-browserify {
+    width: 57px;
+    height: 48px;
+    background-position: -198px -2px;
+}
+
+.icon-chrome {
+    width: 48px;
+    height: 48px;
+    background-position: -259px -2px;
+}
+
+.icon-codeigniter {
+    width: 40px;
+    height: 48px;
+    background-position: -311px -2px;
+}
+
+.icon-cordova {
+    width: 48px;
+    height: 48px;
+    background-position: -2px -54px;
+}
+
+.icon-couchdb {
+    width: 86px;
+    height: 48px;
+    background-position: -54px -54px;
+}
+
+.icon-css3 {
+    width: 36px;
+    height: 48px;
+    background-position: -144px -54px;
+}
+
+.icon-docker {
+    width: 84px;
+    height: 48px;
+    background-position: -184px -54px;
+}
+
+.icon-elasticsearch {
+    width: 56px;
+    height: 48px;
+    background-position: -272px -54px;
+}
+
+.icon-firefoxos {
+    width: 88px;
+    height: 48px;
+    background-position: -2px -106px;
+}
+
+.icon-france {
+    width: 48px;
+    height: 48px;
+    background-position: -94px -106px;
+}
+
+.icon-git {
+    width: 48px;
+    height: 48px;
+    background-position: -146px -106px;
+}
+
+.icon-github {
+    width: 58px;
+    height: 48px;
+    background-position: -198px -106px;
+}
+
+.icon-golang {
+    width: 48px;
+    height: 48px;
+    background-position: -260px -106px;
+}
+
+.icon-grunt {
+    width: 36px;
+    height: 48px;
+    background-position: -332px -54px;
+}
+
+.icon-gulp {
+    width: 21px;
+    height: 48px;
+    background-position: -312px -106px;
+}
+
+.icon-html5 {
+    width: 35px;
+    height: 48px;
+    background-position: -337px -106px;
+}
+
+.icon-india {
+    width: 48px;
+    height: 48px;
+    background-position: -2px -158px;
+}
+
+.icon-italy {
+    width: 48px;
+    height: 48px;
+    background-position: -54px -158px;
+}
+
+.icon-japan {
+    width: 48px;
+    height: 48px;
+    background-position: -106px -158px;
+}
+
+.icon-javascript {
+    width: 48px;
+    height: 48px;
+    background-position: -158px -158px;
+}
+
+.icon-jquery {
+    width: 50px;
+    height: 48px;
+    background-position: -210px -158px;
+}
+
+.icon-korea {
+    width: 48px;
+    height: 48px;
+    background-position: -264px -158px;
+}
+
+.icon-mongodb {
+    width: 48px;
+    height: 48px;
+    background-position: -316px -158px;
+}
+
+.icon-morocco {
+    width: 48px;
+    height: 48px;
+    background-position: -2px -210px;
+}
+
+.icon-mysql {
+    width: 93px;
+    height: 48px;
+    background-position: -54px -210px;
+}
+
+.icon-neo4j {
+    width: 38px;
+    height: 48px;
+    background-position: -151px -210px;
+}
+
+.icon-nodejs {
+    width: 179px;
+    height: 48px;
+    background-position: -193px -210px;
+}
+
+.icon-npm {
+    width: 123px;
+    height: 48px;
+    background-position: -2px -262px;
+}
+
+.icon-php {
+    width: 69px;
+    height: 48px;
+    background-position: -129px -262px;
+}
+
+.icon-python {
+    width: 48px;
+    height: 48px;
+    background-position: -202px -262px;
+}
+
+.icon-redis {
+    width: 56px;
+    height: 48px;
+    background-position: -254px -262px;
+}
+
+.icon-saudi-arabia {
+    width: 48px;
+    height: 48px;
+    background-position: -314px -262px;
+}
+
+.icon-slack {
+    width: 50px;
+    height: 48px;
+    background-position: -2px -314px;
+}
+
+.icon-sublime-text {
+    width: 48px;
+    height: 48px;
+    background-position: -56px -314px;
+}
+
+.icon-swiss {
+    width: 48px;
+    height: 48px;
+    background-position: -108px -314px;
+}
+
+.icon-symfony {
+    width: 49px;
+    height: 48px;
+    background-position: -160px -314px;
+}
+
+.icon-titanium {
+    width: 48px;
+    height: 48px;
+    background-position: -213px -314px;
+}
+
+.icon-trello {
+    width: 48px;
+    height: 48px;
+    background-position: -265px -314px;
+}
+
+.icon-tunisia {
+    width: 48px;
+    height: 48px;
+    background-position: -317px -314px;
+}
+
+.icon-uk {
+    width: 48px;
+    height: 48px;
+    background-position: -355px -2px;
+}
+
+.icon-usa {
+    width: 48px;
+    height: 48px;
+    background-position: -372px -54px;
+}
+
+.icon-yeoman {
+    width: 55px;
+    height: 48px;
+    background-position: -368px -158px;
+}
