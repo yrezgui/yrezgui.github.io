@@ -1,4 +1,4 @@
 yrezgui.github.io
 =================
 
-Website for yrezgui.com
+Website for github.yrezgui.com
